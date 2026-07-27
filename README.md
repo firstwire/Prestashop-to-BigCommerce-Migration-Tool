@@ -2,7 +2,7 @@ We have created a free tool to convert PrestaShop data into BigCommerce-compatib
 You can use this tool to convert your product, customer, address, and order data into files that are ready to import into BigCommerce.
 Once converted, you can simply upload the new data files to BigCommerce.
 
-Please see the detailed instructions at :
+Please see the detailed instructions at : **https://firstwireapp.com/blog/prestashop-to-bigcommerce-migration-free-tool/**
 
 See the code and guide below.
 
